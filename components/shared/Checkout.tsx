@@ -55,7 +55,7 @@ const Checkout = ({
       buyerId,
     };
 
-    await checkoutCredits(transaction);
+    // await checkoutCredits(transaction);
   };
 
   return (
